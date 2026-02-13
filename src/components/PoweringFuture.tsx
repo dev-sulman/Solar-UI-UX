@@ -58,7 +58,7 @@ export default function PoweringFuture() {
                         </motion.button>
 
                         <div className="flex flex-col gap-4">
-                            <h3 className="font-bold text-xl">Environmentally friendly</h3>
+                            <h3 className="font-bold text-xl text-black">Environmentally friendly</h3>
                             <p className="text-black/60 text-sm leading-relaxed max-w-[280px]">
                                 Renewable energy little or no corban emissions, helping to reduce global
                             </p>
