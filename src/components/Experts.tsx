@@ -52,7 +52,7 @@ export default function Experts() {
                                         <feature.icon size={24} strokeWidth={1.5} />
                                     </div>
                                     <div>
-                                        <h3 className="font-bold text-lg mb-2">{feature.title}</h3>
+                                        <h3 className="font-bold text-black text-lg mb-2">{feature.title}</h3>
                                         <p className="text-sm text-black/60 leading-relaxed">
                                             {feature.description}
                                         </p>
