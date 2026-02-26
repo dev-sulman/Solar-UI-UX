@@ -101,6 +101,16 @@ export default function Footer() {
                             ))}
                         </div>
                     </div>
+
+                    {/* Nova Tech Studio Credit */}
+                    <div className="mt-8 pt-6 border-t border-black/5 flex justify-center">
+                        <p className="text-[11px] font-semibold text-black/25 uppercase tracking-[0.25em]">
+                            Powered by{" "}
+                            <span className="text-black/40 hover:text-black transition-colors duration-300 cursor-default">
+                                Nova Tech Studio
+                            </span>
+                        </p>
+                    </div>
                 </div>
             </div>
         </footer>
